@@ -5,8 +5,8 @@
     </div>
     <div class="flex items-center">
         <div class="py-5 space-x-6 px-10 cursor-pointer text-emerald-700 text-2xs font-bold">
-            <a href="{{ route('beranda') }}" class="rounded p-3 bg-gradient hover:bg-amber-600"> Home </a>
-            <a href="{{ route('beranda') }}" class="rounded p-3 bg-gradient hover:bg-amber-600"> About Us </a>
+            <a href="{{ route('home') }}" class="rounded p-3 bg-gradient hover:bg-amber-600"> Home </a>
+            <a href="#about" class="rounded p-3 bg-gradient hover:bg-amber-600"> About Us </a>
             <a href="#produk" class="rounded p-3 bg-gradient hover:bg-amber-600"> Product </a>
             <a href="#lokasi" class="rounded p-3 bg-gradient hover:bg-amber-600"> Lokasi </a>
         </div>
